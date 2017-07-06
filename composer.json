@@ -1,0 +1,6 @@
+{
+  "require": {
+    "yiisoft/yii2": "2.0.12",
+    "yiisoft/yii2-debug": "~2.0.0"
+  }
+}
